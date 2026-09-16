@@ -1,3 +1,20 @@
+## 1.0.3 — 2026-09-16
+
+# 1.0.3
+
+**Added**
+- Sparkle-based auto-update pipeline (this release is a dry-run test of that pipeline)
+
+**Improved**
+-
+
+**Fixed**
+-
+
+**Notes**
+- This release notes file exists to validate the release CI pipeline end-to-end.
+
+
 ## 1.0.2 — 2026-09-16
 
 # 1.0.2

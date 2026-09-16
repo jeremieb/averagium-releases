@@ -1,3 +1,21 @@
+## 1.0.4 — 2026-09-16
+
+# 1.0.4
+
+**Added**
+- Sparkle-based auto-update pipeline (this release is a dry-run test of that pipeline)
+
+**Improved**
+-
+
+**Fixed**
+-
+- auto update fix
+
+**Notes**
+
+
+
 ## 1.0.3 — 2026-09-16
 
 # 1.0.3

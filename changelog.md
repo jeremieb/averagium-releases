@@ -1,3 +1,19 @@
+## 1.0.5 — 2026-09-16
+
+# 1.0.5
+
+**Added**
+-
+
+**Improved**
+-
+
+**Fixed**
+- Marking a feature as complete now also marks all of its tasks as 100%, keeping feature progress from being reset by later task edits.
+
+**Notes**
+-
+
 ## 1.0.4 — 2026-09-16
 
 # 1.0.4

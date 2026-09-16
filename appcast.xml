@@ -1,10 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Averagium Updates</title>
-    <link>https://jeremieb.github.io/averagium-releases/appcast.xml</link>
-    <description>Update feed for Averagium.</description>
-    <language>en</language>
-    <!-- <item> entries are generated per release by CI; do not hand-edit. -->
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Averagium Updates</title>
+        <link>https://jeremieb.github.io/averagium-releases/appcast.xml</link>
+        <description>Update feed for Averagium.</description>
+        <language>en</language>
+        <!-- <item> entries are generated per release by CI; do not hand-edit. -->
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 16 Sep 2026 09:37:07 +0200</pubDate>
+            <link>https://jeremieb.github.io/averagium-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://jeremieb.github.io/averagium-releases/changelog.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.2/Averagium-Projects-1.0.2.zip" length="6388025" type="application/octet-stream" sparkle:edSignature="mdmqvfTKSzIqnlusezgrSPsQvIReDcErAw08xRg4Bm5b3/fNiS6JZS+EdEHxvDoz+680qDW+sfgyPvKv3KqKBw=="/>
+        </item>
+    </channel>
 </rss>

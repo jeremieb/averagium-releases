@@ -7,6 +7,17 @@
         <language>en</language>
         <!-- <item> entries are generated per release by CI; do not hand-edit. -->
         <item>
+            <title>1.0.6</title>
+            <pubDate>Wed, 16 Sep 2026 10:14:57 +0200</pubDate>
+            <link>https://jeremieb.github.io/averagium-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://jeremieb.github.io/averagium-releases/changelog.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.6.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.6/Averagium-Projects-1.0.6.zip" length="6389575" type="application/octet-stream" sparkle:edSignature="0klrZyjbTP8D5g/DCShJZLFuPaLwnbKdeFXS7+W5w0Ztl2X7ZMCar2pYiOzoeF1muJgM2fqpimSO+vFwlCZwAw=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Wed, 16 Sep 2026 10:07:51 +0200</pubDate>
             <link>https://jeremieb.github.io/averagium-releases/</link>
@@ -27,17 +38,6 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.4.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.4/Averagium-Projects-1.0.4.zip" length="6388042" type="application/octet-stream" sparkle:edSignature="WI7aGoeirc7GV2DuUPfcuXsHXAlYcBXp153MNehr5MBRf8aoD6n/em8zBWOC1PyPpAYrmHS4sOa4iXAB/hW0AA=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 16 Sep 2026 09:46:33 +0200</pubDate>
-            <link>https://jeremieb.github.io/averagium-releases/</link>
-            <sparkle:fullReleaseNotesLink>https://jeremieb.github.io/averagium-releases/changelog.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.3/Averagium-Projects-1.0.3.zip" length="6388036" type="application/octet-stream" sparkle:edSignature="ZUE8RK8UiOUkaUutTbmmJgNtGGFnd9dJFp9TAj0Efjquw3c0Mzx0ka9BZy+UP1asIQ67ID3xOLR46nlGE6EPDg=="/>
         </item>
     </channel>
 </rss>

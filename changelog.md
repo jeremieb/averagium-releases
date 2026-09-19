@@ -1,3 +1,15 @@
+## 1.0.21 — 2026-09-19
+
+# 1.0.21
+
+****
+
+**Fixed**
+- Sidebar folders no longer force themselves open on launch; they respect their collapsed/expanded state again.
+
+****
+
+
 ## 1.0.20 — 2026-09-19
 
 # 1.0.20

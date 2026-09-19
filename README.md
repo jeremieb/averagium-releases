@@ -22,8 +22,8 @@ Every repository tends to accumulate its own pile of `.md` files describing what
 
 ## Installing
 
-1. Download the latest `.zip` from [Releases](https://github.com/jeremieb/averagium-releases/releases/latest).
-2. Unzip it and move **Averagium Projects.app** to your Applications folder.
+1. Download the latest `.dmg` or `.zip` from [Releases](https://github.com/jeremieb/averagium-releases/releases/latest).
+2. Open the image or unzip it and move **Averagium Projects.app** to your Applications folder.
 3. Launch it — macOS 27 or later is required.
 
 ## Staying up to date

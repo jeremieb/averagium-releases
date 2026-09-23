@@ -1,3 +1,14 @@
+## 1.0.24 — 2026-09-23
+
+# 1.0.24
+
+****
+
+**Fixed**
+- Sidebar Git change badges no longer show pending changes for projects that have none. Files that were staged and then reverted, or deleted and recreated identically, are no longer counted, so the badge matches what Git Review would commit.
+
+****
+
 ## 1.0.23 — 2026-09-23
 
 # 1.0.23

@@ -7,6 +7,17 @@
         <language>en</language>
         <!-- <item> entries are generated per release by CI; do not hand-edit. -->
         <item>
+            <title>1.0.23</title>
+            <pubDate>Wed, 23 Sep 2026 16:45:27 +0200</pubDate>
+            <link>https://jeremieb.github.io/averagium-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://jeremieb.github.io/averagium-releases/changelog.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.23.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.23/Averagium-Projects-1.0.23.zip" length="7184182" type="application/octet-stream" sparkle:edSignature="z9gzdlAlsdtLXHWBgAv0AIP5IrIVKEZDIwJ5oh6t9R51kUlkpoeCUje2WbN6cKdUeXnkQFFYLyuOSVTh46TEBg=="/>
+        </item>
+        <item>
             <title>1.0.22</title>
             <pubDate>Mon, 21 Sep 2026 16:07:00 +0200</pubDate>
             <link>https://jeremieb.github.io/averagium-releases/</link>
@@ -27,17 +38,6 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.21.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.21/Averagium-Projects-1.0.21.zip" length="7047307" type="application/octet-stream" sparkle:edSignature="yw9F4KyGDjGgiXqmHN2pLpkrMu3YX9MhmlFr/MtMqHQYOxnkA/hn8ujMjgW9fRMwnDo4DlAK7T3Jkq/Sx5UuDg=="/>
-        </item>
-        <item>
-            <title>1.0.20</title>
-            <pubDate>Sat, 19 Sep 2026 10:36:43 +0200</pubDate>
-            <link>https://jeremieb.github.io/averagium-releases/</link>
-            <sparkle:fullReleaseNotesLink>https://jeremieb.github.io/averagium-releases/changelog.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://jeremieb.github.io/averagium-releases/releases/Averagium-Projects-1.0.20.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jeremieb/averagium-releases/releases/download/v1.0.20/Averagium-Projects-1.0.20.zip" length="7049685" type="application/octet-stream" sparkle:edSignature="VsVcNgVD4GshzSajklebJsGzM/GFRxdKoQ0Xe6lqNF4BUxW1/C0JJjhEcVLhQqW6/UEH6WcxIu+Un5hydDtQAw=="/>
         </item>
     </channel>
 </rss>
